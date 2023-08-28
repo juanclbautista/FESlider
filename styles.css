@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    align-content: center;
+}
+
+.fire-emblem {
+    max-width: 1000px;
+    position: relative;
+    margin: auto;
+    
+}
